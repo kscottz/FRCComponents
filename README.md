@@ -5,9 +5,12 @@ FRCComponents
  
  Includes:
  
-  cRio
-  victor
-  digital side cars
-  Power Board
-  Inverter
-  Power Swithes
+  -cRio
+  -victor
+  -digital side cars
+  -Power Board
+  -Inverter
+  -Power Swithes
+  -RaspberryPi
+  -Arduino
+  
