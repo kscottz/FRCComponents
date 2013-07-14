@@ -28,13 +28,15 @@ Need to do:
 
 Make pass through hole dxf files for
 
-* mounting brackets
+* mounting brackets (TBD)
 
-* cable ties / wire mounts
+* cable ties / wire mounts for regular 0.35x0.25 inch holes one inch apart (like this  ||  )
 
-* Battery connector
+* Battery connector 1.6x0.8 inches
 
-* PWM 3pin connectors
+* Anderson Connector pass trough. 0.8x0.5 inches (should handle two).
+
+* PWM 3pin connectors 0.5 inches square (for multiple connections)
 
 * 18inch x 24inch board
 
