@@ -22,7 +22,7 @@ FRCComponents
   
   * Spike Relay
 
-  * Router
+  * Router DAP-1522 D-link router 4.4” x 5.7” x 1.3”, need mounting holes.
   
 [This is a great resource](http://www.firstcadlibrary.com/pages/electrical%20parts.asp)
 
@@ -48,6 +48,7 @@ Pass through hole dxf files for
 
 Mounting Bolts and Nuts
 ===============================
+It would be helpful to have bolt dimensions to get everything mounted flush. We can put that info here. 
 
 * CRio
 * Digital Side Car
